@@ -7,4 +7,4 @@ my_app.py | Primeira Janela
 second_win.py | segunda janela
 final_win.py | Terceira janela
 
-# This app will check the guest's heart  health
+# This app will check the guest's heart  health 
