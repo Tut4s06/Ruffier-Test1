@@ -1,1 +1,3 @@
-# write here a code for the third app
+from PyQt5.QtWdgets import *
+
+class FinalWin(QWidget):

@@ -1,1 +1,3 @@
-# write a code for the second app
+from PyQt5.QtWdgets import *
+
+class TestWin(QWidget):
