@@ -1,11 +1,9 @@
-
 win_x, win_y = 200, 100
 win_width, win_height = 1000, 600
-
-txt_hello = ''
+txt_hello = 'Wellcome to the Health Status detection program!'
 txt_next = ''
-txt_instruction = '' 
-txt_title = ''
+txt_instruction = 'This application allows you to use the Ruffier' 
+txt_title = 'Health'
 txt_name = ''
 txt_hintname = ""
 txt_hintage = ""
